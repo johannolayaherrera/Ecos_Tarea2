@@ -1,0 +1,30 @@
+Process Dashboard - logging started at Sun Feb 19 21:44:48 COT 2017
+Oracle Corporation JRE 1.8.0_121; Windows 10
+Using LocalWorkingDirectory[C:\pspdata]
+2017-02-19 21:44:48.169:INFO:oejs.Server:jetty-8.y.z-SNAPSHOT
+2017-02-19 21:44:48.200:INFO:oejs.AbstractConnector:Started LocalConnector@0.0.0.0:0
+2017-02-19 21:44:48.238:INFO:oejs.AbstractConnector:Started SelectChannelConnector@127.0.0.1:2468
+Created default translation engine.
+feb 19, 2017 9:44:49 PM net.sourceforge.processdash.ProcessDashboard <init>
+INFORMACIÓN: Process Dashboard version 2.3
+Saved C:\pspdata\global.dat
+feb 19, 2017 9:45:40 PM net.sourceforge.processdash.ProcessDashboard quit
+INFORMACIÓN: Successfully saved all data.
+2017-02-19 21:45:40.704:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2017-02-19 21:45:40.704:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/C:/Program%20Files/Process%20Dashboard/dashHelp.jar!/Templates/}
+2017-02-19 21:45:40.704:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2017-02-19 21:45:40.704:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/C:/Program%20Files/Process%20Dashboard/dashHelpExt.jar!/Templates/}
+2017-02-19 21:45:40.720:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2017-02-19 21:45:40.720:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/C:/Program%20Files/Process%20Dashboard/extras.jar!/Templates/}
+2017-02-19 21:45:40.720:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2017-02-19 21:45:40.720:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/C:/Program%20Files/Process%20Dashboard/importPSP.jar!/Templates/}
+2017-02-19 21:45:40.720:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2017-02-19 21:45:40.720:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/C:/Program%20Files/Process%20Dashboard/l10nTool.jar!/Templates/}
+2017-02-19 21:45:40.720:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2017-02-19 21:45:40.720:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/C:/Program%20Files/Process%20Dashboard/pspForEng.jar!/Templates/}
+2017-02-19 21:45:40.720:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2017-02-19 21:45:40.720:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/C:/Program%20Files/Process%20Dashboard/pspProc2.jar!/Templates/}
+2017-02-19 21:45:40.720:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2017-02-19 21:45:40.720:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextMcf{,processdash-mcf:/}
+2017-02-19 21:45:40.720:INFO:oejsl.ELContextCleaner:javax.el.BeanELResolver purged
+2017-02-19 21:45:40.735:INFO:oejsh.ContextHandler:stopped n.s.p.n.h.WebAppContextLegacy{,jar:file:/C:/Program%20Files/Process%20Dashboard/pspdash.jar!/Templates/}
